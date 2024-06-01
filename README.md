@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fulop Robert 
 - 👀 I’m interested in getting my first job
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning .NET
 - 📫 How to reach me https://www.facebook.com/robert.fulop.90/
 
 <!---
